@@ -2,7 +2,7 @@
 
 
 
-My first machine learning project, inspitrated by  <a href='https://academic.oup.com/mnrasl/article/467/1/L110/2931732'>GalaxyGAN/a>. 
+My first machine learning project, inspitrated by  <a href='https://academic.oup.com/mnrasl/article/467/1/L110/2931732'>GalaxyGAN </a>. 
   
 
 <p style="text-align:justify"> In the present era of astronomy, we are expecting a large amount of data
